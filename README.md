@@ -1,6 +1,6 @@
-# Healthy Information Application
+# Travel Application
 
-Healthy Information Application is a demo Healthy UI
+Travel Application Application is a demo Healthy UI
 
 ## Installation
 
